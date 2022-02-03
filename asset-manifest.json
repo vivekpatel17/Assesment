@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Assesment/static/css/main.c2d05aef.css",
+    "main.js": "/Assesment/static/js/main.e670f2fc.js",
+    "static/media/traphouse.jpg": "/Assesment/static/media/traphouse.56ef494edf4d332fb20f.jpg",
+    "index.html": "/Assesment/index.html",
+    "main.c2d05aef.css.map": "/Assesment/static/css/main.c2d05aef.css.map",
+    "main.e670f2fc.js.map": "/Assesment/static/js/main.e670f2fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d05aef.css",
+    "static/js/main.e670f2fc.js"
+  ]
+}
